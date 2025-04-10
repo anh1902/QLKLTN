@@ -22,7 +22,8 @@ namespace QUẢN_LÝ_KHÓA_LUẬN_TÔT_NGHIỆP
 
         }
         //thiết kế giao diện 
-        //cập nhật kết nối CSDL 
+        //cập nhật kết nối CSDL
+        //chức năng thêm, duyệt, từ chối 
 
     }
 }
