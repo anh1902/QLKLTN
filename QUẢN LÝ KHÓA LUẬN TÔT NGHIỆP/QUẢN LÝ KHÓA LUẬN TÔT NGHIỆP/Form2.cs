@@ -23,5 +23,6 @@ namespace QUẢN_LÝ_KHÓA_LUẬN_TÔT_NGHIỆP
         }
         //giao diện duyệt đề tài 
         //hoàn thiện các chức năng khác 
+        // fix lỗi nếu có 
     }
 }
