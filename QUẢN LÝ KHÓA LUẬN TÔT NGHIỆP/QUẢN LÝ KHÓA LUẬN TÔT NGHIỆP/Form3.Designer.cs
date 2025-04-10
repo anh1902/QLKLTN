@@ -1,6 +1,6 @@
 ﻿namespace QUẢN_LÝ_KHÓA_LUẬN_TÔT_NGHIỆP
 {
-    partial class Form2
+    partial class Form3
     {
         /// <summary>
         /// Required designer variable.
@@ -33,22 +33,22 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(297, 97);
+            this.button1.Location = new System.Drawing.Point(183, 55);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(122, 59);
+            this.button1.Size = new System.Drawing.Size(361, 60);
             this.button1.TabIndex = 0;
-            this.button1.Text = "DUYỆT ĐỀ TÀI ";
+            this.button1.Text = "CHỌN VÀ ĐĂNG KÝ ĐỀ TÀI PHÙ HỢP";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // Form2
+            // Form3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(869, 450);
             this.Controls.Add(this.button1);
-            this.Name = "Form2";
-            this.Text = "Form2";
+            this.Name = "Form3";
+            this.Text = "Form3";
             this.ResumeLayout(false);
 
         }

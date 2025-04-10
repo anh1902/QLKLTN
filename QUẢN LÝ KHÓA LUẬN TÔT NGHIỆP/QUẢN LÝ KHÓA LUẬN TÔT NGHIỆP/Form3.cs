@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace QUẢN_LÝ_KHÓA_LUẬN_TÔT_NGHIỆP
 {
-    public partial class Form2 : Form
+    public partial class Form3 : Form
     {
-        public Form2()
+        public Form3()
         {
             InitializeComponent();
         }
@@ -21,8 +21,6 @@ namespace QUẢN_LÝ_KHÓA_LUẬN_TÔT_NGHIỆP
         {
 
         }
-        //giao diện duyệt đề tài 
-        //hoàn thiện các chức năng khác 
-        // fix lỗi duyệt đề tài nếu có 
+        //giao diện đăng ký đề tài 
     }
 }
