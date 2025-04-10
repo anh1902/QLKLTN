@@ -22,5 +22,6 @@ namespace QUẢN_LÝ_KHÓA_LUẬN_TÔT_NGHIỆP
 
         }
         //giao diện đăng ký đề tài 
+        //hoàn thiện chức năng đăng ký 
     }
 }
