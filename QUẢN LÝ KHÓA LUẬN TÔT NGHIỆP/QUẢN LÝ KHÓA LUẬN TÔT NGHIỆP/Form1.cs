@@ -16,5 +16,11 @@ namespace QUẢN_LÝ_KHÓA_LUẬN_TÔT_NGHIỆP
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+        //thiết kế giao diện 
     }
 }
